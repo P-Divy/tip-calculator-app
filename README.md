@@ -10,4 +10,4 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [ ]
+- Live Site URL: [https://divya-tip-calculator-app.netlify.app/]
